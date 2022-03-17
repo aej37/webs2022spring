@@ -1,0 +1,41 @@
+.button{
+  display: block;
+  width: 100px;
+  margin: 10px auto;
+  background-repeat: no-repeat;
+  height: 100px;
+}
+
+.btns {
+  padding: 20px;
+  width : 150 px;
+  font-weight: bold;
+}
+
+.b1{
+  background-image: url('images/sag2.gif');
+
+}
+
+.b2{
+  background-image: url('images/cap.gif');
+}
+
+body {
+  background-color: #31213e;
+  background-image: url('images/bg.png');
+  background-size: cover;
+}
+
+.b1, .b2{
+   display: inline-block;
+   margin-right: 5px;
+}
+
+.btns{
+  color:white;
+}
+
+h1{
+  color:white;
+}
