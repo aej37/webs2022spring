@@ -1,14 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Solway', serif;
+}
+
+
 .button{
-  display: block;
+  display: flex;
+ justify-content: center;
   width: 100px;
   margin: 10px auto;
-  background-repeat: no-repeat;
   height: 100px;
 }
 
 .btns {
-  padding: 20px;
-  width : 150 px;
+
   font-weight: bold;
 }
 
@@ -21,14 +28,19 @@
   background-image: url('images/cap.gif');
 }
 
+.b3{
+  background-image: url('images/aqua.gif');
+}
+
 body {
   background-color: #31213e;
   background-image: url('images/bg.png');
   background-size: cover;
 }
 
-.b1, .b2{
-   display: inline-block;
+.b1, .b2, .b3{
+   display: flex;
+   align-items: center;
    margin-right: 5px;
 }
 
@@ -36,10 +48,16 @@ body {
   color:white;
 }
 
-h1{
+h1,h2{
   color:white;
+  text-align: center;
 }
-.horoscope {
-    display: inline-block;
+#horNav{
+    display:flex;
+    align-items: center;
     list-style-type: none;
+}
+
+#sagtxt, #captxt, #aquatxt{
+  text-align: center;
 }
