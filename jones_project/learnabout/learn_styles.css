@@ -1,0 +1,8 @@
+#sunsign{
+  background-image: url('images/sunsign.png');
+}
+
+#moonsign{
+  background-image: url('images/moonsign.png');
+  color: white;
+}
