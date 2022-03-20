@@ -85,12 +85,52 @@ body {
   text-align: center;
 }
 
-h1,h2{
+#title{
   color:white;
   text-align: center;
+  font-family: 'Playfair Display SC', serif;
+  font-size: 55px;
 }
-#horNav{
-    display:flex;
-    align-items: center;
-    list-style-type: none;
+
+#caption{
+  color:white;
+  text-align: center;
+  font-family: 'Playfair Display SC', serif;
+  font-size: 35px;
+}
+
+
+#horoscope{
+  text-align: justify;
+  font-family: 'Playfair Display SC', serif;
+  color:white;
+
+}
+#learntitle{
+  padding: 50px 0px 30px 0px;
+  font-family: 'Playfair Display SC', serif;
+  text-align: justify;
+  color:white;
+}
+
+.learn{
+  padding: 20px 0;
+  border: 3px solid #fff;
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.sun, .moon, .rising{
+  text-decoration: none;
+  font-size: 25px;
+  color: white;
+}
+
+.sun, .moon, .rising{
+  font-family: 'Playfair Display SC', serif;
+}
+
+p{
+  font-family: 'Playfair Display SC', serif;
 }
