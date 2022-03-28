@@ -4,6 +4,8 @@
     <meta charset='UTF-8'/>
     <title>Scorpio Horoscope</title>
     <link rel='stylesheet' href='horoscope_styles.css'/>
+    <link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Lobster&family=Playfair+Display+SC:ital@1&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap" rel="stylesheet">
   </head>
   <body>
 
@@ -40,29 +42,41 @@
     </div>
   </div>
 </div>
-    <h1>Hello Scorpio!</h1>
+    <h1 id = 'welcome'>Hello Scorpio!</h1>
+    <div class = 'txt'>
+      <div class = 'column'>
     <h2 id='daily'> Daily Reading (via horoscope.com)</h2>
     <p id='dailytxt'>You could feel a lot of fond affection for everyone around you today,
       even those you normally might find irritating. Co-workers, friends, family, and the special
       person in your life are likely to be happier for having basked in this glow, and should reciprocate.
       You're feeling especially generous,
       Scorpio, so buying gifts is likely to be on your agenda. Don't forget to be kind to yourself, too. </p>
+    </div>
 
-
+    <div class = 'column'>
     <h2 id='love'> Love Reading (via horoscope.com) </h2>
     <p id='lovetxt'>You will have no choice but to cease being hardworking and responsible, and be very relaxed -
       even laid-back. The celestial lineup will probably have you horizontal with laughter before the day is over,
       and this may not be because you find your own company particularly funny. A significant other may discover the
        subject that makes you giggle helplessly, and won't stop joking about it.
      </p>
+   </div>
+
+   <div class = 'column'>
 
     <h2 id='career'> Career Reading (via horoscope.com)</h2>
       <p id='careertxt'>You are likely to resist someone else's ideas or wishes because you sense that this person is
         trying to control or manipulate you. Most likely, this person is simply trying to help you,
         so be open and willing to accept advice from others.</p>
+    </div>
+  </div>
+
+  <div class = 'reading'>
 
     <h2 id='tarot'>Tarot Reading of the Day (via biddytarot.com)</h2>
+    <br>
     <h3>Hover over the card to get your reading!</h3>
+    <br>
 
       <div class="flip-box">
       <div class="flip-box-inner">
@@ -81,5 +95,6 @@
         </div>
       </div>
     </div>
+  </div>
   </body>
 </html>

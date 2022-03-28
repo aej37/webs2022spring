@@ -4,6 +4,8 @@
     <meta charset='UTF-8'/>
     <title>Taurus Horoscope</title>
     <link rel='stylesheet' href='horoscope_styles.css'/>
+    <link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Lobster&family=Playfair+Display+SC:ital@1&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap" rel="stylesheet">
   </head>
   <body>
 
@@ -40,13 +42,18 @@
     </div>
   </div>
 </div>
-    <h1>Hello Taurus!</h1>
+    <h1 id = 'welcome'>Hello Taurus!</h1>
+
+    <div class = 'txt'>
+      <div class = 'column'>
     <h2 id='daily'> Daily Reading (via horoscope.com)</h2>
     <p id='dailytxt'>You may attend a party or other group activity this evening, Taurus.
        However, you and the special someone in your life could well leave it early in order to steal some time for
        intimate conversation together. You should be looking and feeling great and be especially optimistic about your
        future and the future of your relationships.The future is looking extremely bright to you today. </p>
+     </div>
 
+     <div class = 'column'>
 
     <h2 id='love'> Love Reading (via horoscope.com) </h2>
     <p id='lovetxt'>You normally enjoy a feeling of closeness and familiarity with friends and partners,
@@ -55,13 +62,25 @@
        and give you a chance to transform your outlook and attitude on a few things. Go for it.
      </p>
 
+   </div>
+
+   <div class = 'column'>
+
     <h2 id='career'> Career Reading (via horoscope.com)</h2>
       <p id='careertxt'>Make sure you have music nearby as you work. Pick something that is soothing and relaxing.
         If music is not allowed at your work, consider getting headphones.
         Tuning out the rest of the world as you work will make the day go by much more smoothly.</p>
 
+  </div>
+
+</div>
+
+<div class = 'reading'>
+
     <h2 id='tarot'>Tarot Reading of the Day (via biddytarot.com)</h2>
+    <br>
     <h3>Hover over the card to get your reading!</h3>
+    <br>
 
       <div class="flip-box">
       <div class="flip-box-inner">
@@ -77,5 +96,6 @@
         </div>
       </div>
     </div>
+  </div>
   </body>
 </html>
