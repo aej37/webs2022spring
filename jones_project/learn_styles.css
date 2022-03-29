@@ -12,17 +12,24 @@ p{
   padding-top: 20px;
 }
 
+body{
+  margin-left: 10px;
+}
+
 #sunsign{
   background-image: url('images/horoscopebg.jpg');
 }
 
 #moonsign{
-  background-image: url('images/moonsign_bg.jpg')
+  background-image: url('images/moonsign_bg.jpg');
+  color:white;
 }
 
 #risingsign{
   background-image: url('images/rising.jpg');
+  color:white;
 }
+
 .navbar {
   overflow: hidden;
   font-family: 'Playfair Display SC', serif;
