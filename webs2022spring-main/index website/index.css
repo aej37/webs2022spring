@@ -1,0 +1,57 @@
+
+h1, h2 {
+  text-align: center;
+}
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #E6E6FA;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  display: block;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #FFFFFF;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #;
+  color: black;
+}
+
+.card-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    align-items: center;
+    margin: : 40px;
+    padding-left: 40PX;
+}
+
+.Button {
+  align-items: center;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; <!-- Arranges along the vertical axis, b/c column   -->
+    align-items: center;            <!-- Arranges along the horizontal axis, b/c column -->
+}
+
+@media only screen and (max-width: 399px) {
+    .card {
+        flex-direction: row;
+    }
+}
