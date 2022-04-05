@@ -1,6 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway:400,400i,700");
 
-
 * {
   margin: 0;
   padding: 0;
@@ -127,9 +126,17 @@
 body{
   Margin: auto 0;
   Max-width:50 em;
-  background-image: url('images/gradient.jpg');
-  background-repeat: no-repeat;
-  color:white;
+  text-align:center;
+  background-image: url('images/zodiac.jpg');
+  color: 	#888888;
+
+}
+
+.flip-box{
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+  width: 20%;
 }
 
 .column {
@@ -159,6 +166,7 @@ body{
 
 #welcome{
   margin-left: 10px;
+  font-size: 5em;
   font-family: 'Playfair Display SC', serif;
 }
 

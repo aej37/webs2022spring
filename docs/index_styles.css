@@ -1,7 +1,6 @@
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
   font-family: 'Solway', serif;
 }
 
@@ -9,24 +8,33 @@
 .button{
   display: flex;
  justify-content: center;
-  width: 107px;
-  margin: 10px auto;
-  height: 107px;
+  width: 125px;
+  margin-right: 10px;
+  margin-left: 25px;
+  margin-top: 12px;
+  margin-bottom: 10px;
+
+  height: 125px;
 }
 
-.container {
-    display: grid;
-    grid-template-rows: 120px 120px;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-    gap: 30px;
-    text-align: center;
-}
+.container{
+  box-sizing: border-box;
+  display: block;
 
+    height: 120vh;
+    margin-left:  100px;
+    margin-right:  100px;
+    background-image: url('images/home_bg.jpg');
+    background-color: #E3EAEA;
+  color: #888888;
+}
 
 
 .btns {
 
   font-weight: bold;
+  text-align: center;
+
 }
 
 .b1{
@@ -35,15 +43,15 @@
 }
 
 .b2{
-  background-image: url('images/taurus.gif');
+  background-image: url('images/taurus2.gif');
 }
 
 .b3{
-  background-image: url('images/gemini.gif');
+  background-image: url('images/gemini2.gif');
 }
 
 .b4{
-  background-image: url('images/cancer.gif');
+  background-image: url('images/cancer2.gif');
 }
 
 .b5{
@@ -79,9 +87,15 @@
 }
 
 body {
-  background-color: #31213e;
-  background-image: url('images/bg.png');
+  background-color: #E3EAEA;
   background-size: cover;
+}
+.row {
+    display: grid;
+    grid-template-rows: 120px 120px;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    gap: 30px;
+    text-align: center;
 }
 
 .b1, .b2, .b3{
@@ -96,14 +110,12 @@ body {
 }
 
 #title{
-  color:white;
   text-align: center;
   font-family: 'Playfair Display SC', serif;
   font-size: 55px;
 }
 
 #caption{
-  color:white;
   text-align: center;
   font-family: 'Playfair Display SC', serif;
   font-size: 20px;
@@ -114,14 +126,13 @@ body {
   padding: 0px 10px;
   text-align: justify;
   font-family: 'Playfair Display SC', serif;
-  color:white;
+
 
 }
 #learntitle{
   padding: 50px 0px 30px 10px;
   font-family: 'Playfair Display SC', serif;
   text-align: justify;
-  color:white;
 }
 
 .learn{
@@ -144,5 +155,6 @@ body {
 
 p{
   font-family: 'Playfair Display SC', serif;
+  text-align: center;
   color:white
 }
