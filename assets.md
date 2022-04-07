@@ -5,8 +5,15 @@
 Asset | Source
 -- | --
 Zodiac Icons | Source from CC: Free to use under Creative Commons NonCommercial license: "Zodiac Signs" by NuitApp https://giphy.com/Nuitapp/
-Page Background | Source from CC: Free to use under Creative Commons NonCommercial license: "Blue and Purple Stars" https://wallpaperaccess.com/purple-and-blue-stars
-
+Pages Background | Source from CC: Free to use under Creative Commons NonCommercial license: "Blue and Purple Stars" https://wallpaperaccess.com/purple-and-blue-stars
+Horoscopes Text | https://www.horoscope.com/us/index.aspx
+Sun Signs Text | https://www.starslikeyou.com.au/what-is-a-sun-sign/
+Moon Signs Text | https://www.starslikeyou.com.au/what-is-a-moon-sign/
+Rising Signs Text | https://www.starslikeyou.com.au/the-rising-sign-or-ascendant/ and https://www.allure.com/story/rising-sign-personality-traits-astrology-ascendant-signs
+Flip-Box Code | https://www.w3schools.com/howto/howto_css_flip_image.asp 
+Drop down Menu Code | https://www.w3schools.com/howto/howto_css_dropdown_navbar.asp
+Container Code | https://jsfiddle.net/p1mz721k/
+Tarot Readings | https://www.biddytarot.com/tarot-card-meanings/ 
 Hanged Man Tarot Card | Free to use under Public Domain: "Hanged Man" by Pamela Coleman Smith https://commons.wikimedia.org/wiki/File:RWS_Tarot_12_Hanged_Man.jpg
 Death Tarot Card| Fair Use: https://tarotluv.com/tarot-card-meanings/major-arcana/death/
 The Hermit Tarot Card | Free to use under Public Domain: "The Hermit" by Pamela Coleman Smith https://commons.wikimedia.org/wiki/File:RWS_Tarot_09_Hermit.jpg
