@@ -8,13 +8,13 @@
 .button{
   display: flex;
  justify-content: center;
-  width: 125px;
+  width: 107px;
   margin-right: 10px;
   margin-left: 25px;
   margin-top: 12px;
   margin-bottom: 10px;
 
-  height: 125px;
+  height: 107px;
 }
 
 .container{
@@ -24,9 +24,9 @@
     height: 120vh;
     margin-left:  100px;
     margin-right:  100px;
-    background-image: url('images/home_bg.jpg');
-    background-color: #E3EAEA;
-  color: #888888;
+    background-image: url('images/gradient.jpg');
+    background-color: #	#4B0082;
+  color: white;
 }
 
 
@@ -43,15 +43,15 @@
 }
 
 .b2{
-  background-image: url('images/taurus2.gif');
+  background-image: url('images/taurus.gif');
 }
 
 .b3{
-  background-image: url('images/gemini2.gif');
+  background-image: url('images/gemini.gif');
 }
 
 .b4{
-  background-image: url('images/cancer2.gif');
+  background-image: url('images/cancer.gif');
 }
 
 .b5{
@@ -87,7 +87,8 @@
 }
 
 body {
-  background-color: #E3EAEA;
+  background-color: #191970;
+  background-color:black;
   background-size: cover;
 }
 .row {
@@ -126,8 +127,6 @@ body {
   padding: 0px 10px;
   text-align: justify;
   font-family: 'Playfair Display SC', serif;
-
-
 }
 #learntitle{
   padding: 50px 0px 30px 10px;

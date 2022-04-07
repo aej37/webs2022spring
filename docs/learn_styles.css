@@ -6,28 +6,32 @@
   box-sizing: border-box;
   font-family: 'Playfair Display SC', serif;
 }
+.container{
+  box-sizing: border-box;
+  display: block;
+    background-image: url('images/learn_bg.jpg');
+    height: 120vh;
+    margin-left:  100px;
+    margin-right:  100px;
+  color: white;
+}
+
+
+h1{
+  margin-left: 10px;
+  font-size: 3.5em;
+}
 
 p{
   font-family: 'Julius Sans One', sans-serif;
   padding-top: 20px;
+  font-size:1.2em;
 }
 
 body{
   margin-left: 10px;
-}
-
-#sunsign{
-  background-image: url('images/horoscopebg.jpg');
-}
-
-#moonsign{
-  background-image: url('images/moonsign_bg.jpg');
-  color:white;
-}
-
-#risingsign{
-  background-image: url('images/rising.jpg');
-  color:white;
+  background-color: black;
+  text-align:center;
 }
 
 .navbar {
