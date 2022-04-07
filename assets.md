@@ -5,6 +5,8 @@
 Asset | Source
 -- | --
 Zodiac Icons | Source from CC: Free to use under Creative Commons NonCommercial license: "Zodiac Signs" by NuitApp https://giphy.com/Nuitapp/
+Page Background | Source from CC: Free to use under Creative Commons NonCommercial license: "Blue and Purple Stars" https://wallpaperaccess.com/purple-and-blue-stars
+
 Hanged Man Tarot Card | Free to use under Public Domain: "Hanged Man" by Pamela Coleman Smith https://commons.wikimedia.org/wiki/File:RWS_Tarot_12_Hanged_Man.jpg
 Death Tarot Card| Fair Use: https://tarotluv.com/tarot-card-meanings/major-arcana/death/
 The Hermit Tarot Card | Free to use under Public Domain: "The Hermit" by Pamela Coleman Smith https://commons.wikimedia.org/wiki/File:RWS_Tarot_09_Hermit.jpg
@@ -16,14 +18,10 @@ The Devil Tarot Card | Free to use under Public Domain: "The Devil" by Pamela Co
 The Sun Tarot Card | Free to use under Public Domain: "The Sun" by Pamela Coleman Smith https://commons.wikimedia.org/wiki/File:RWS_Tarot_19_Sun.jpg
 The Pope Tarot Card | Free to use under Public Domain: "The Hierophant" by Pamela Coleman Smith https://commons.wikimedia.org/wiki/File:RWS_Tarot_05_Hierophant.jpg
 The World Tarot Card | Free to use under Public Domain: "The World" by Pamela Coleman Smith https://commons.wikimedia.org/wiki/File:RWS_Tarot_21_World.jpg
-
 Playfair Display SC Font | Free to use under Open Font License: "Playfair Display SC Font" by Claus Eggers Sørensen https://fonts.google.com/specimen/Playfair+Display+SC?preview.text=Star%20Power&preview.text_type=custom#about
+Julius Sans One Font | Free to use under Open Font License: "Julius Sans One Font" by Luciano Vergara https://fonts.google.com/specimen/Julius+Sans+One#about
 
 
-
-
-
-Font | Source from CC: Free commercial font from FontSpace:
 
 
 <!--EndFragment-->
