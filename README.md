@@ -2,7 +2,7 @@
 
 **Website Description**
 
-My website is a one that allows people who are interested in astrology and horoscope to learn and enjoy this array of information. I have pages for each zodiac sign and the user can click on theirs to see their daily, love, and career horoscopes. The user also gets a daily tarot card reading where they can learn about different tarots cards and see how their card will affect them for the day. If the user is new to astrology and wants to learn more about there are three pages that introduce them to the main signs: sun, moon and rising. They describe what each mean and how they affect the person's personality as a whole. Overall, this is a site for anyone who believes in the stars!
+My website is a one that allows people who are interested in astrology and horoscopes to learn and enjoy an array of information. I have pages for each zodiac sign and the user can click on theirs to see their daily, love, and career horoscopes. The user also gets a daily tarot card reading where they can learn about different tarots cards and see how their card will affect them for the day. If the user is new to astrology and wants to learn more about it, there are three pages that introduce them to the main signs: sun, moon and rising. They describe what each mean and how they affect the person's personality as a whole. Overall, this is a site for anyone who believes in the stars!
 
 **Website Link**: https://aej37.github.io/webs2022spring/
 
