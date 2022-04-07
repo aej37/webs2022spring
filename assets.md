@@ -6,16 +6,16 @@ Asset | Source
 -- | --
 Zodiac Icons | Source from CC: Free to use under Creative Commons NonCommercial license: "Zodiac Signs" by NuitApp https://giphy.com/Nuitapp/
 Pages Background | Source from CC: Free to use under Creative Commons NonCommercial license: "Blue and Purple Stars" https://wallpaperaccess.com/purple-and-blue-stars
-Horoscopes Text | https://www.horoscope.com/us/index.aspx
-Sun Signs Text | https://www.starslikeyou.com.au/what-is-a-sun-sign/
-Moon Signs Text | https://www.starslikeyou.com.au/what-is-a-moon-sign/
-Rising Signs Text | https://www.starslikeyou.com.au/the-rising-sign-or-ascendant/ and https://www.allure.com/story/rising-sign-personality-traits-astrology-ascendant-signs
+Horoscopes Text | Horoscope.com : https://www.horoscope.com/us/index.aspx
+Sun Signs Text | "What is a Sun Sign" by Starslikeyou.com https://www.starslikeyou.com.au/what-is-a-sun-sign/
+Moon Signs Text | "What is a Moon Sign" by Starslikeyou.com https://www.starslikeyou.com.au/what-is-a-moon-sign/
+Rising Signs Text |"What is a Rising Signs" by Starslikeyou.com and "Rising Signs, Explained: What Ascendant Signs Reveal About Personality" by Emily Simone of Allure  https://www.starslikeyou.com.au/the-rising-sign-or-ascendant/ and https://www.allure.com/story/rising-sign-personality-traits-astrology-ascendant-signs
 Flip-Box Code | https://www.w3schools.com/howto/howto_css_flip_image.asp 
 Drop down Menu Code | https://www.w3schools.com/howto/howto_css_dropdown_navbar.asp
 Container Code | https://jsfiddle.net/p1mz721k/
-Tarot Readings | https://www.biddytarot.com/tarot-card-meanings/ 
+Tarot Readings | "Tarot Card Meanings" by biddytarot.com https://www.biddytarot.com/tarot-card-meanings/ 
 Hanged Man Tarot Card | Free to use under Public Domain: "Hanged Man" by Pamela Coleman Smith https://commons.wikimedia.org/wiki/File:RWS_Tarot_12_Hanged_Man.jpg
-Death Tarot Card| Fair Use: https://tarotluv.com/tarot-card-meanings/major-arcana/death/
+Death Tarot Card| Fair Use as I using this for educational purposes: https://tarotluv.com/tarot-card-meanings/major-arcana/death/
 The Hermit Tarot Card | Free to use under Public Domain: "The Hermit" by Pamela Coleman Smith https://commons.wikimedia.org/wiki/File:RWS_Tarot_09_Hermit.jpg
 The Strength Tarot Card | Free to use under Public Domain: "Strength" by Pamela Coleman Smith https://commons.wikimedia.org/wiki/File:RWS_Tarot_08_Strength.jpg
 The Lovers Tarot Card | Free to use under Public Domain: "The Lovers" by Pamela Coleman Smith https://commons.wikimedia.org/wiki/File:TheLovers.jpg
