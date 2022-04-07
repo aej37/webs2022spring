@@ -1,6 +1,11 @@
 # Project 3: Website Portfolio
 
-**MY PROJECT STARTS WITH MY INDEX.HTML FILE IN THE doc FOLDER**
+**Website Description**
+
+My website is a one that allows people who are interested in astrology and horoscope to learn and enjoy this array of information. I have pages for each zodiac sign and the user can click on theirs to see their daily, love, and career horoscopes. The user also gets a daily tarot card reading where they can learn about different tarots cards and see how their card will affect them for the day. If the user is new to astrology and wants to learn more about there are three pages that introduce them to the main signs: sun, moon and rising. They describe what each mean and how they affect the person's personality as a whole. Overall, this is a site for anyone who believes in the stars!
+
+
+
 
 Your task in this unit is to **build a multi-page website using basic html and css files** — as opposed to a site manager like WordPress or Wix — **along with any media assets you wish to embed.** (Any JavaScript or animation you want to add for interactivity is welcome, but above and beyond expectations.) In assigning this, I have two main goals for you:
 
